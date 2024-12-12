@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 2048 801" width="644" height="252" xmlns="http://www.w3.org/2000/svg" style="margin: 0 auto; display: block;">
+ <path transform="translate(1037,13)" d="m0 0h20l19 2 24 4 22 6 36 12 38 12 41 14 35 11 35 12 20 6 8 4 2 2 1 110-1 78-1 37-2 25-3 16-7 25-9 25-12 25-10 18-9 13-12 14-10 10-7 8-2 1 2-4 6-8 5-12 6-10 11-25 10-30 6-29 2-17 1-14v-216l-1-3-102-34-29-9-41-13-36-10-17-3-25-2-29 1-24 3-24 6-42 13-21 7-26 8-27 9-43 14-23 7-9 4-1 107v121l2 19 6 31 5 17 10 24 12 24 11 17 8 11-1 2-11-9-12-12-12-16-10-15-8-14-12-26-10-27-5-17-5-26-2-19-1-32v-142l1-53 2-5 14-6 50-16 47-15 43-14 39-12 31-10 26-6 22-3z" fill="#9966cc"/>
+<path transform="translate(1032,205)" d="m0 0h18l21 5 14 6 12 8 14 14 10 15 6 12 4 14 1 20-2 16-4 13-8 15-9 12-12 12-13 9-19 8-2 5v115l-1 15-5 8-5 4-4 2h-15l-9-6-5-8-2-15v-118l-6-2-16-8-13-9-15-15-9-15-6-14-3-13v-22l3-17 5-13 12-20 14-14 14-9 11-5 17-4z" fill="#9966cc"/>
+ <title>Secure</title>
+  <!-- Background (optional, can be removed) -->
+  <rect width="200" height="50" fill="white" />
+
+  <!-- Text with UniSans or Roboto font -->
+  <text 
+    x="50%" 
+    y="75%" 
+    text-anchor="middle" 
+    dominant-baseline="central" 
+    font-family="'Roboto', 'UniSans', sans-serif" 
+    font-size="320" 
+    margin-top="100px"
+    font-weight="bold" 
+    fill="#9966cc">
+    SecureFlow
+  </text>
+</svg>
